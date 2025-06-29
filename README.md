@@ -4,7 +4,7 @@
   </a>
   <br />
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwarypandey30/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwary-pandey30/)
   [![LeetCode user aishwary_p](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faishwary_p&logo=leetcode&logoColor=yellow)](https://leetcode.com/aishwary_p/)
   [![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=aishwarypandey30)](https://codeforces.com/profile/aishwarypandey30)
   [![Codechef](https://cp-logo.vercel.app/codechef/zoro_30)](https://www.codechef.com/users/zoro_30)
